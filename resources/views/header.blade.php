@@ -12,13 +12,14 @@
 <header>
        
             <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav mr-auto">
+                <div class="collapse navbar-collapse " id="navbarCollapse">
+                    <ul class="navbar-nav justify-content-end " style="padding-left:1200px;">
+                        
                         <li class="nav-item active">
-                            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="/phonebook">جهات الاتصال <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="/phonebook">Contacts <span class="sr-only">(current)</span></a>
+                        <li class="nav-item active float-right">
+                                <a class="nav-link" href="/">الرئيسية <span class="sr-only">(current)</span></a>
                         </li>
                     </ul>
                 </div>
